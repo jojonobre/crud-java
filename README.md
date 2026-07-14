@@ -2,7 +2,7 @@
 
 # CRUD java
 
-### Projeto desenvolvido para estudos de Java com foco nos conceitos fundamentais da linguagem e na implementação de operações CRUD (Create, Read, Update e Delete).
+### Projeto desenvolvido para estudos e revisão de Java com foco nos conceitos fundamentais da linguagem e na implementação de operações CRUD (Create, Read, Update e Delete).
 
 </div>
 
